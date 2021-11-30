@@ -47,11 +47,17 @@ Some things need paratheses and some don’t! Feel free to take a look at the ex
 That was a lot of information and if you made it to the end, let's recap what you learned:
 
 -what python is
+
 -what it means to be a high level language
+
 -the basics of object oriented programming
+
 -what a function is
+
 -what the print function does and the parts of it
+
 -what python data types are and which need quotes around them when using them
+
 -that replit.com exists as an online compiler (maybe you learned what a compiler is as well!)
 
 I have included some flashcards to help with new vocabulary and they can be found here: https://quizlet.com/646207297/intro-python-flash-cards/?new
