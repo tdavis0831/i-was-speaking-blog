@@ -54,5 +54,7 @@ That was a lot of information and if you made it to the end, let's recap what yo
 -what python data types are and which need quotes around them when using them
 -that replit.com exists as an online compiler (maybe you learned what a compiler is as well!)
 
+I have included some flashcards to help with new vocabulary and they can be found here: https://quizlet.com/646207297/intro-python-flash-cards/?new
+
 
 If you have any questions or just want to connect, feel free to reach out on LinkedIn or Github! 
