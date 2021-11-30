@@ -26,14 +26,23 @@ So, there are 3 parts: print -the actual function, () -needed to make the functi
 I mentioned the word “type” and said that depending on what type of information is being passes to the python function, would depend if it needs parathesis or not. It seems unfair to go over data types and then that will be more than enough information for one day. 
 
 Python data types: 
+
 Numbers (Broken down to Integer and Float)
+
 Integer- Whole numbers to be exact ex: 1, 33, 1234421, 4523, -123, 0
+
 Float- numbers with trailing decimals (not whole values) ex: 8.5, 1.23, 2342342354398.0001
+
 String- ordered sequence of characters ex: “hello world”, “dogs”, “I like turtles”, “bing bong”, “ayoo”
+
 List- an ordered series of values within “[]” brackets ex: [1,2,4] , [“cat”, 2, “pineapple”, 342390.02]
+
 Tuple- a sequence of objects within “()”  ex: (50, 18, 28.6) , (“cat”, 2, “pineapple”, 342390.02)
+
 Set- ordered, sequence of objects within “{}” ex: {50, 18, 28.6} , {“cat”, 2, “pineapple”, 342390.02}
+
 Dictionary- key value paired objects within”{}” ex {“mouse”:5, “cat”:4} 
+
 *Booleans are also a data type that represent the values true or false- we will discuss these later they are expressed as True or False and don't need quotes around them.
 
 I will go into these data types more in detail later, we don’t need information overload. 
