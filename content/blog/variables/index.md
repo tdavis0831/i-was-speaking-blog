@@ -116,3 +116,7 @@ So let’s take a second to recap what you learned:
 -how to use operators 
 
 -what string concatenation is and how to add spaces between variables
+
+Oh and flash cards of course https://quizlet.com/_ap1m5k?x=1qqt&i=2ifdye
+
+And as always if you have any questions, comments, or inquiries, feel free to reach out to me! 
