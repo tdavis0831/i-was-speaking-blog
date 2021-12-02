@@ -1,6 +1,6 @@
 ---
 title: I have one thing to say- you better work, bitch
-date: "2021-11-28T22:12:03.284Z"
+date: "2021-12-01T22:12:03.284Z"
 description: "An overview of how I survived a coding boot camp"
 ---
 
