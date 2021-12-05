@@ -3,6 +3,9 @@ title: Hi, I'm hyper critical of myself, what's your name?
 date: "2021-12-05T22:12:03.284Z"
 description: "I have been really self critical, so let's talk about it"
 ---
+>Your value doesn't decrease based on 
+>someone's inability to see your worth, 
+>even if that someone is you.
 
 I am a perfectionist. Perhaps it stems from childhood trauma (most of us have it, you don't have to be ashamed) or because I am
 a Virgo, but it’s there. Most times it is really easy for me to get caught up pushing myself to do more or be better; my expectations of myself are limitless and undefined. I was working with a mentor (John) today working on a project that I felt should have been easier for me to understand. We were able to finish the problem, but I had to ask a lot of questions, had to have the same concepts explained to me multiple times, and had to break down problems many different times. And at the end, like I said, we were able to finish. I could feel myself wanting to cry from embarrassment for having to look up answers to questions I should know the answer to, I was frustrated and disappointed in that moment.
@@ -11,10 +14,6 @@ Once we finished, I asked John for advice on how to get better at the concepts w
 I can’t stop thinking about this and processing this. I can’t stop thinking that the only expectations that I have on my skills at this time are the ones that I have placed on myself. The only person is ever disappointed by my work is me. The only person to feel negatively about the code I write is me. I have, not once, encountered another human (to my face) tell me that my work was bad, inadequate, below expectation or anything of the sort. 
 
 Wow. 
-
->Your value doesn't decrease based on 
->someone's inability to see your worth, 
->even if that someone is you.
 
 In the past 12 months, I have gone from someone that didn’t even know what a programming language was and now I am able to code in multiple languages, use many libraries and frameworks, I have created more than one website, am weeks from completing a full stack coding boot camp and continually give back the knowledge that was given to me. How could I possibly be disappointed in all that I have accomplished this year?
 
