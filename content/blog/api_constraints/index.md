@@ -1,6 +1,6 @@
 ---
 title: 6 Constraints for REST APIs.
-date: "2021-12-01T22:12:03.284Z"
+date: "2021-12-14T22:12:03.284Z"
 description: "An overview of the REST API Constraints for a RESTful System"
 ---
 
