@@ -5,8 +5,6 @@ description: "An overview of the REST API Constraints for a RESTful System"
 ---
 
 
-##6 Constraints for REST APIs.
-
 REST stands for Representational State Transfer. A RESTful API means that it is using the HTTP request to GET, POST, PUT and DELETE data. REST is a software architectural style that was made to guide the development of the internet. 
 There are 6 constraints when it comes to APIS, which define what it means to be RESTful.
 
