@@ -29,8 +29,11 @@ This is where it got a little hard for me to understand at first, so I hope this
 A simple way for me to understand this was to think about a nested for loop.
 
 def quad_example(list):
+	
 	for item in list:
+		
 		item_2 in list:
+		
 		return(item, item_2)
 list=[“a”,”b”,”c”]
 
