@@ -42,8 +42,11 @@ This very simply function loops through items in a list, then loops through them
 This notation refers to a concept called exponential time complexity. This means that each time data is added to the data, the algorithm storage size and speed doubles. The most familiar example of this is the calculation of the Fibonacci numbers. This is referred to as a recursive function (a function that calls itself under certain conditions).
 
 def fibonacci(n):
+
     if n <= 1:
+
         return n
+		
     return fibonacci(n-1) + fibonacci(n-2)
 
 
