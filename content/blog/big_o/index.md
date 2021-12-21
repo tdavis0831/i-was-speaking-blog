@@ -8,14 +8,14 @@ First off, what is Big O Notation? It is a term used to describe the performance
 Here are 4 of the most common notations and a simple explanation to hopefully help shed some light on this topic.
 
 
-##O(1)
+## O(1)
 
 O(1) is used when an algorithm will always use the same space or time no matter the size of the data that is based through it. Another word used to describe this is constant time. 
 An example of this would be if we were comparing 2 variables, a and b, and returning a Boolean depending on which is larger. 
 Another example would be if we were returning the first value of a data set. Regardless of the length of the set, it will always be the same since we are always taking the first value and nothing more.
 
 
-##O(n)
+## O(n)
 
 This notation is also known as linear time complexity. Simply put, this mean that the time and storage increase as the size of the data input increases. 
 
@@ -23,7 +23,7 @@ An example of this is searching for to check if a specific item is in a list. As
 It might be easy for you to remember this from linear equations in math. I didn’t, but if you do, that could help you remember this one! 
 
 
-##O(N²)
+## O(N²)
 
 This is where it got a little hard for me to understand at first, so I hope this helps. This means that the speed and space used by the algorithm is determined by the square set of the data.
 A simple way for me to understand this was to think about a nested for loop.
@@ -37,7 +37,8 @@ list=[“a”,”b”,”c”]
 This very simply function loops through items in a list, then loops through them again and returns the value. In this case, the function would return each item in the list repeated twice. So, n in this case is the number of items in the list, 3 (3*3).
 
 
-##O(2^N)	
+## O(2^N)
+
 This notation refers to a concept called exponential time complexity. This means that each time data is added to the data, the algorithm storage size and speed doubles. The most familiar example of this is the calculation of the Fibonacci numbers. This is referred to as a recursive function (a function that calls itself under certain conditions).
 
 def fibonacci(n):
