@@ -15,7 +15,7 @@ An example of this would be if we were comparing 2 variables, a and b, and retur
 Another example would be if we were returning the first value of a data set. Regardless of the length of the set, it will always be the same since we are always taking the first value and nothing more.
 
 
-## O(n)
+## O(N)
 
 This notation is also known as linear time complexity. Simply put, this mean that the time and storage increase as the size of the data input increases. 
 
@@ -46,7 +46,7 @@ def fibonacci(n):
     if n <= 1:
 
         return n
-		
+
     return fibonacci(n-1) + fibonacci(n-2)
 
 
