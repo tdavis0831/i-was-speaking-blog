@@ -1,7 +1,7 @@
 ---
 title: OH- NO(tation)
 date: "2021-12-21T22:12:03.284Z"
-description: "Overview of 4 common Big O Notations"
+description: "Overview of 4 common Big O Notation Types"
 ---
 
 First off, what is Big O Notation? It is a term used to describe the performance of an algorithm. Most commonly, we are referring to execuation time for the algorithm to run, and or the storage that the algorithm uses. 
