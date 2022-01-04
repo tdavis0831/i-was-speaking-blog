@@ -39,7 +39,8 @@ If images are more your thing, I found this really incredible image that belongs
 
 !["git"](./maxresdefault.jpg)
 
+There are a couple of commands that are listed on here that I plan on covering that I did not talk about, but you can start to vizualize what they might do- and go research to learn more about it.  
 
-There are so many more commands and I plan on doing a part 2 to this breif overview, but you can NOT be a programmer and not understand git! This information is very important and should be part of your developer toolkit for sure! 
+I do plan on doing a part 2 of this with more git commands, so feel free to check back soon!
 
 And of course, feel free to connect with me by clicking any of the buttons below! 
