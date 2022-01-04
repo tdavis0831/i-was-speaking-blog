@@ -1,6 +1,6 @@
 ---
 title: 5 Git Commands You Should Know
-date: "2022-1-4T22:12:03.284Z"
+date: "2022-01-04T22:12:03.284Z"
 description: "The title says it all!"
 ---
 
