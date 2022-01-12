@@ -1,7 +1,7 @@
 ---
-title: The Resources I Used Before Getting Into A Coding Bootcamp"
+title: The Resources I Used Before Getting Into A Coding Bootcamp
 date: "2022-01-12T22:12:03.284Z"
-description: ""
+description: "Some helpful websites and conventions for beginners"
 ---
 
 A few people have asked me what resources I used before attending my bootcamp- so here a list of some websites that were incredibly helpful!  
