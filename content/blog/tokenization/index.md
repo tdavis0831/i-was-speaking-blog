@@ -30,7 +30,10 @@ Just an FYI- the sample text and split code are in the same directory!
 This is useful for example, if you had a file with HR information, you could easily pull employee information from that list. Of course, that is a very basic example of what you can do with such a powerful tool. 
 
 Now that wasn’t so bad, now was it? 
+
 Learning how to manipulate data is an incredibly important skill to know in development- and tokenization is a great tool to do so. I encourage you to practice splitting and see just how many different things you can do! 
+
+
 If you have any questions or just want to connect, feel free to reach out on LinkedIn or Github!
 
 
