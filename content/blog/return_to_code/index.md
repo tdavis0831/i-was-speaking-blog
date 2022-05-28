@@ -10,7 +10,7 @@ I have a confession. I have not coded since completing my final project. My curr
 
 I took a step back because I needed it, and then I thought to myself 2 days ago- I want to get back into coding. Then the next day I got an email about a teaching position at my previous school. I am not sure if I will get the job, but that's not really what matters. What matters is that it drove me to open my VS code and github for the first time since January.
 
-I caught up recently with some old classmates that are now friends who ensured me returning to coding would be like riding a bike- they didn't tell me that I would need all forms of protective gear. I had to look up git commands, terminal commands, forgot the "%" was the modulous sign and struggled pushing all of my changes to github.
+I caught up recently with some old classmates that are now friends who ensured me returning to coding would be like riding a bike- they didn't tell me that I would need all forms of protective gear. I had to look up git commands, terminal commands, forgot the "%" was the modulo sign and struggled pushing all of my changes to github.
 
 		But I did it.
 
@@ -23,6 +23,6 @@ https://evilink.com/theamorywords
 
 I created a version of wordle for one of my favorite comic books! 
 
-I am so thankful for the changes that have been made in my life so far, and I plan on writing about them more, but for now a breif check-in. Maybe this encourages you to spend 30 minutes coding like I did today, or revisit something you have been wanting to do for a while not coding related. 
+I am so thankful for the changes that have been made in my life so far, and I plan on writing about them more, but for now a brief check-in. Maybe this encourages you to spend 30 minutes coding like I did today, or revisit something you have been wanting to do for a while not coding related. 
 
 As always, feel free to reach out to me with any questions, concerns, or just to connect via LinkedIn or GitHub! Both linked below!
