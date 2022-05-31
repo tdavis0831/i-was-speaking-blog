@@ -1,6 +1,6 @@
 ---
 title: A list-tle slice of Pie(thon)
-date: "2022-0531T22:12:03.284Z"
+date: "2022-05-31"
 description: “List Slicing made easy ”
 ---
 
